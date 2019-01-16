@@ -30,8 +30,8 @@ android {
         abi {
             enableSplit = true
         }
-
     }
+    dynamicFeatures.add(":dynamic_feature")
 }
 
 dependencies {
