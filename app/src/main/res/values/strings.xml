@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">testBundle</string>
+    <string name="title_dynamic_feature">Dynamic feature module</string>
+</resources>

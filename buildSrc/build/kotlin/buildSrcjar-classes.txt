@@ -1,0 +1,1 @@
+/Users/oleg/Project/testBundle/buildSrc/build/classes/kotlin/main/ApplicationId.class:/Users/oleg/Project/testBundle/buildSrc/build/classes/kotlin/main/Release.class:/Users/oleg/Project/testBundle/buildSrc/build/classes/kotlin/main/Versions.class
